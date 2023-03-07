@@ -1,1 +1,1 @@
-# tea-profile-generator
+# Team-profile-generator
