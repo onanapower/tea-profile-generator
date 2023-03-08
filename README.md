@@ -18,4 +18,8 @@ An an NPM file used to propmt questions from the team members which is later dis
 
 ### Jest
 
-Jest was used to test our files using their
+Jest was used to test the codes. Jest is a popular testing framework for JavaScript code. It is designed to make testing easier and more efficient by providing a simple and intuitive API for writing tests and a built-in test runner that can run tests in parallel.
+
+## Copyright
+
+Obigati codes with support from tutor and pod mates
