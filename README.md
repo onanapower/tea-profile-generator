@@ -10,4 +10,12 @@ information is passed through the command line interface application
 
 ## Tools
 
-Stated with a astarter code that included test files, js file and template literals for rendering the html webpage
+Started with a starter code that included test files, js file and template literals file for rendering the html webpage
+
+### Inquirer
+
+An an NPM file used to propmt questions from the team members which is later displayed
+
+### Jest
+
+Jest was used to test our files using their
